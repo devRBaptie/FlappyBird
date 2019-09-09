@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973056007026",
+    "firebase_url": "https://flappybird-efd0c.firebaseio.com",
+    "project_id": "flappybird-efd0c",
+    "storage_bucket": "flappybird-efd0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973056007026:android:1ab8531b8af6f5d0",
+        "android_client_info": {
+          "package_name": "me.reece.flappybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973056007026-tbkbsa99kvu4r665c9b6mmv2ee3v516g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.reece.flappybird",
+            "certificate_hash": "d2cf6cc62992e52b25f7f3e607e8230c068df4b1"
+          }
+        },
+        {
+          "client_id": "973056007026-ojsnv4rsrdps4jr1m6qrihngh1pn0ibl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtehTSO6gzCNFQcKFijuXadEe1kGBB-ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973056007026-ojsnv4rsrdps4jr1m6qrihngh1pn0ibl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
